@@ -379,13 +379,8 @@
     "summary": "",
     "images": "https://pixabay.com/get/5fe3d2454c57b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc05d_1280.jpg"
   },
-  "http://placerfoodbank.org/bingo/": {
-    "title": "Bingo",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/meal?seed=3461"
-  },
   "http://smile.amazon.com/ch/94-1740316": {
-    "title": "You shop. Amazon gives",
+    "title": "You shop. Amazon gives to Placer Food Bank.",
     "summary": "",
     "images": "https://loremflickr.com/400/400/homeless?seed=1771"
   },
