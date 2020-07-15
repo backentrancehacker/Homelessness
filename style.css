@@ -1,0 +1,196 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: Helvetica, sans-serif;
+	box-sizing: border-box;
+}
+*, *::before, *::after {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+#app {
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	border: none;
+	outline: none;
+}
+#app .card {
+	flex: 0 0 calc(100% / 3);
+	align-self: stretch;
+	transition: box-shadow 0.3s ease;
+	overflow: hidden;
+	position: relative;
+}
+a, a:hover {
+	text-decoration: none;
+}
+#app .card img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	z-index: 0;
+	background: whitesmoke;
+	position: relative;
+	transition: opacity 0.3s ease;
+	opacity: 1;
+}
+#app .card img[data-src] {
+	opacity: 0;
+}
+#app .card::after {
+	content: "";
+	padding-top: 100%;
+	display: inline-flex;
+}
+#app .card::before {
+	z-index: 1;
+	padding: 0.5em;
+	content: attr(data-title);
+	user-select: none;
+	pointer-events: none;
+	font-size: 1.5rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	overflow: hidden;
+	word-break: break-word;
+	text-align: center;
+	text-overflow: ellipsis;
+	width: 100%;
+	height: 100%;
+	background: dodgerblue;
+	color: #eee;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	transition: opacity 0.3s ease,
+				transform 0.3s ease;
+}
+#app .card:hover::before {
+	opacity: 1;
+	transform: scale(0.9);
+}
+@media only screen and (max-width: 768px) {
+	#app .card {
+		flex: 1 0 calc(100% - 1em);
+	}
+}
+html, body {
+	/* -ms-overflow-style: none; */
+    /* scrollbar-width: none;  */
+	overflow-y: scroll;
+}
+::-webkit-scrollbar {
+	background: transparent;
+	display: none;
+	width: 0;
+    height: 0;
+}
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+::-webkit-scrollbar-thumb {
+	background: transparent;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: transparent;	
+}
+@keyframes fade-out{
+	from {
+		opacity: 1;
+	}
+	to {
+		opacity: 0;
+	}
+}
+.fade-out {
+	animation: fade-out 0.5s linear forwards;
+}
+#loader {
+	position: fixed;
+	z-index: 2;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+#loader h2 {
+	color: grey;
+	font-weight: 400;
+	margin: 1em 0 0 0;
+	font-size: 1.1em;
+	text-align: center;
+}
+.lds-grid {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lds-grid div {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: dodgerblue;
+  animation: lds-grid 1.2s linear infinite;
+}
+.lds-grid div:nth-child(1) {
+  top: 8px;
+  left: 8px;
+  animation-delay: 0s;
+}
+.lds-grid div:nth-child(2) {
+  top: 8px;
+  left: 32px;
+  animation-delay: -0.4s;
+}
+.lds-grid div:nth-child(3) {
+  top: 8px;
+  left: 56px;
+  animation-delay: -0.8s;
+}
+.lds-grid div:nth-child(4) {
+  top: 32px;
+  left: 8px;
+  animation-delay: -0.4s;
+}
+.lds-grid div:nth-child(5) {
+  top: 32px;
+  left: 32px;
+  animation-delay: -0.8s;
+}
+.lds-grid div:nth-child(6) {
+  top: 32px;
+  left: 56px;
+  animation-delay: -1.2s;
+}
+.lds-grid div:nth-child(7) {
+  top: 56px;
+  left: 8px;
+  animation-delay: -0.8s;
+}
+.lds-grid div:nth-child(8) {
+  top: 56px;
+  left: 32px;
+  animation-delay: -1.2s;
+}
+.lds-grid div:nth-child(9) {
+  top: 56px;
+  left: 56px;
+  animation-delay: -1.6s;
+}
+@keyframes lds-grid {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
