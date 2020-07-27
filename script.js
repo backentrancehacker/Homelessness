@@ -46,13 +46,7 @@
 	}
 
 
-	const convert = params => {
-		let esc = encodeURIComponent
-		return Object.keys(params).map(k => esc(k) + '=' + esc(params[k])).join('&')
-	}
-
-	let toAppend = [],
-		used = []
+	let toAppend = []
 	
 	let assetLength = Object.keys(api).length
 	let index = 0

@@ -12,15 +12,14 @@ html, body {
 #app {
 	height: 100%;
 	display: flex;
-	flex-wrap: wrap;
+	flex-flow: row wrap;
 	align-items: stretch;
 	border: none;
 	outline: none;
 }
 #app .card {
 	flex: 0 0 calc(100% / 3);
-	align-self: stretch;
-	transition: box-shadow 0.3s ease;
+	background: #fff;
 	overflow: hidden;
 	position: relative;
 }

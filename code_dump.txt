@@ -1,29 +1,33 @@
+/* Show cases Pixabay & Loremflickr api */
+let used = []
 
-		else {
-			let keywords = val.title.split(' ')[0].toLowerCase()
-			let possible = [keywords, 'homeless', 'veteran', 'homelessness', 'homeless', 'foodbank', 'vegetables', 'helping', 'volunteering', 'meal', 'refugee', 'army', 'poor', 'children']
-			
-			let params = convert({
-				key: '17397834-d06bf1535286fc48ae3d887bc',
-				q: possible[Math.floor(Math.random() * possible.length)],
-				image_type: 'photo',
-				page: Math.floor(Math.random() * 3) + 1,
-				per_page: 4
-			})
-			
-			let toFetch = `https://pixabay.com/api/?${params}`
-			
-			try {
-				src = await fetch_xml(toFetch)
-			}
-			catch(e) {
-				src = {hits: 0}
-			}
+const convert = params => {
+	let esc = encodeURIComponent
+	return Object.keys(params).map(k => esc(k) + '=' + esc(params[k])).join('&')
+}
 
-			const generateLink = () => `https://loremflickr.com/400/400/${possible[Math.floor(Math.random() * possible.length)] || 'homelessness'}?seed=${Math.floor(Math.random() * 10000)}`
 
-			src = src.hits.length > 0 ? src.hits[Math.floor(Math.random() * src.hits.length)].largeImageURL : generateLink()
+let keywords = val.title.split(' ')[0].toLowerCase()
+let possible = [keywords, 'homeless', 'veteran', 'homelessness', 'homeless', 'foodbank', 'vegetables', 'helping', 'volunteering', 'meal', 'refugee', 'army', 'poor', 'children']
 
-			if(used.includes(src)) src = generateLink()
+let params = convert({
+	key: '17397834-d06bf1535286fc48ae3d887bc',
+	q: possible[Math.floor(Math.random() * possible.length)],
+	image_type: 'photo',
+	page: Math.floor(Math.random() * 3) + 1,
+	per_page: 4
+})
+let toFetch = `https://pixabay.com/api/?${params}`
 			
-			used.push(src)
+try {
+	// fetch_xml is just cors bypass for fetch
+	// must be in valid async/await
+	src = await fetch_xml(toFetch)
+}
+catch(e) {
+	src = {hits: 0}
+}
+const generateLink = () => `https://loremflickr.com/400/400/${possible[Math.floor(Math.random() * possible.length)] || 'homelessness'}?seed=${Math.floor(Math.random() * 10000)}`
+src = src.hits.length > 0 ? src.hits[Math.floor(Math.random() * src.hits.length)].largeImageURL : generateLink()
+if(used.includes(src)) src = generateLink()
+used.push(src)

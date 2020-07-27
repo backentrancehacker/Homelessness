@@ -1,457 +1,102 @@
 {
-  "www.cdc.gov/coronavirus/2019-ncov/community/homeless-shelters/index.html": {
-    "title": "Communities, Schools, Workplaces, & Events",
-    "summary": "",
-    "images": "https://pixabay.com/get/55e1d74a4956ac14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bb9_1280.jpg"
-  },
-  "www.elkgrovecity.org/city_hall/departments_divisions/housing_loans/homelessness_in_elk_grove/resources_for_the_homeless": {
-    "title": "Resources for the Homeless",
-    "summary": "A 9 week program which empowers women who are homeless with skills to secure a job, create a healthy lifestyle and regain a home",
-    "images": "https://pixabay.com/get/50e9d54a4d57b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc659_1280.jpg"
-  },
-  "www.hhs.gov/programs/social-services/homelessness/resources/index.html": {
-    "title": "Resources",
-    "summary": "This webpage contains information on efforts by the Office of Early Childhood Development to expand early care and education services for children experiencing homelessness",
-    "images": "https://pixabay.com/get/57e5d0434f52ad14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bb9_1280.jpg"
-  },
-  "endhomelessness.org/how-to-get-help-experiencing-homelssness/": {
-    "title": "How to Get Help If You Are Experiencing Homelessness",
-    "summary": "If your community doesn’t have a single access point, or you are unable to find it, you will have to identify various providers and determine if they have an available shelter bed or other resources like food and health care",
-    "images": "https://pixabay.com/get/5ee4d1414a55b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc659_1280.jpg"
-  },
-  "www.shra.org/emergency-housing-and-other-homeless-resources": {
-    "title": "Emergency Housing and Homeless Resources",
-    "summary": "If you need assistance with emergency housing, food services, counseling, employment, or other services please contact 211 using one of the options listed below:",
-    "images": "https://pixabay.com/get/57e7d34b4257ab14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bba_1280.jpg"
-  },
-  "www.homelessshelterdirectory.org/cgi-bin/id/city.cgi?city=Rocklin&state=CA": {
-    "title": "Homeless Help Forum",
-    "summary": "Below are all of the homeless shelters and services for the needy that provide help to those in need for Rocklin, CA and surrounding cities",
-    "images": "https://loremflickr.com/400/400/poor?seed=8670"
-  },
-  "www.hudexchange.info/housing-and-homeless-assistance/": {
-    "title": "Need Housing Assistance?",
-    "summary": "DOL’s Employment Training page provides a short-term training finder, an education and training finder, a Certification Finder, links to Apprenticeship programs, financial aid, and much more",
-    "images": "https://pixabay.com/get/5ee5d54a4d53b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65a_1280.jpg"
-  },
-  "www.hudexchange.info/homelessness-assistance/": {
-    "title": "Homelessness Assistance Programs",
-    "summary": "View SNAPS In Focus messages describing SNAPS policy priorities and key information relating to the implementation of the CoC and ESG Programs",
-    "images": "https://pixabay.com/get/55e0d544495ba914f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbb_1280.jpg"
-  },
-  "www.feedingamerica.org/find-your-local-foodbank": {
-    "title": "Find Your Local Food Bank",
-    "summary": "3 billion meals each year through food pantries and meal programs throughout the United States and leads the nation to engage in the fight against hunger",
-    "images": "https://pixabay.com/get/5ee4d0444a5bb108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65b_1280.jpg"
-  },
-  "www.feedingamerica.org/our-work/food-bank-network": {
-    "title": "How Do Food Banks Work?",
-    "summary": "The food banks distribute food and grocery items through food pantries and meal programs that serve families, children, seniors and individuals at risk of hunger",
-    "images": "https://loremflickr.com/400/400/volunteering?seed=8343"
-  },
-  "placerfoodbank.org": {
-    "title": "Placer Food Bank – Nourishing Communities. Ending Hunger",
-    "summary": "It will be imperative that we keep up with the demand to ensure there is food on the table for seniors, children, and families in El Dorado, Nevada and Placer Counties",
-    "images": "https://pixabay.com/get/57e6d2434850ae14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbc_1280.jpg"
-  },
-  "www.samhsa.gov/homelessness-programs-resources": {
-    "title": "Homelessness Programs and Resources",
-    "summary": "",
-    "images": "https://pixabay.com/get/52e2dd4a4b5aa914f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbc_1280.jpg"
-  },
-  "https://www.cdc.gov": {
-    "title": "CDC Works 24/7",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee6d44b435bb108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65d_1280.jpg"
-  },
-  "https://www.cdc.gov/az/": {
-    "title": "https://www.cdc.gov/az/",
-    "summary": "",
-    "images": "https://pixabay.com/get/54e9d6424256aa14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbd_1280.jpg"
-  },
-  "https://tools.cdc.gov/medialibrary/index.aspx#/sharecontent/https%3A%2F%2Fwww.cdc.gov%2Findex.htm": {
-    "title": "Public Health Media Library",
-    "summary": "",
-    "images": "https://pixabay.com/get/54e4d4444e57ac14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbe_1280.png"
-  },
-  "https://www.adobe.com": {
-    "title": "Creative, marketing and document management solutions",
-    "summary": "",
-    "images": "https://pixabay.com/get/57e8d7414d52a814f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbe_1280.jpg"
-  },
-  "http://www.elkgrovehart.org/": {
-    "title": "Elk Grove HART",
-    "summary": "Recognizing this desperate situation, HART has distributed informational street sheets to help inform the homeless of how they can better protect themselves and those in our community",
-    "images": "https://pixabay.com/get/5ee5d7474851b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65f_1280.jpg"
-  },
-  "http://www.thehotline.org/": {
-    "title": "National Domestic Violence Hotline",
-    "summary": "",
-    "images": "https://pixabay.com/get/53e9d6404b51b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65f_1280.jpg"
-  },
-  "http://traffickingresourcecenter.org/": {
-    "title": "National Human Trafficking Hotline",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee5d54a4e5ab108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65a_1280.jpg"
-  },
-  "http://www.prainc.com/soar/": {
-    "title": "SOAR Works!",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee1d2404c5bb108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65f_1280.jpg"
-  },
-  "http://www.samhsa.gov": {
-    "title": "Substance Abuse and Mental Health Services Administration",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee4d1414b53b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc650_1280.jpg"
-  },
-  "http://www.ssa.gov": {
-    "title": "The United States Social Security Administration",
-    "summary": "Check out your Social Security Statement, change your address & manage your benefits online today",
-    "images": "https://pixabay.com/get/57e7d2464851a514f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bb9_1280.jpg"
-  },
-  "http://www.acf.hhs.gov/programs/ecd/expanding-early-care-and-education-for-homeless-children": {
-    "title": "Expanding Early Care and Education for Children Experiencing Homelessness",
-    "summary": " Supporting the well-being of these young children and their families is an urgent task and one that is critical to improving the long-term educational outcomes of children nationwide",
-    "images": "https://pixabay.com/get/57e2d14b4357a914f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bb0_1280.jpg"
-  },
-  "http://www.acf.hhs.gov/programs/ecd": {
-    "title": "Home",
-    "summary": "will act as a catalyst to create collective impact and support early learning and care of our nation's children and their families",
-    "images": "https://pixabay.com/get/5ee6dc414850b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc651_1280.jpg"
-  },
-  "http://datawarehouse.hrsa.gov/topics/primaryHealthCare.aspx#chart": {
-    "title": "Explore Data and Maps on HRSA’s Health Care Programs",
-    "summary": "",
-    "images": "https://pixabay.com/get/5fe6dd454f55b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc651_1280.jpg"
-  },
-  "https://resources.hud.gov/": {
-    "title": "HUD Resource Locator",
-    "summary": "Press the F5 key to refresh the page and you should see a dialog box labeled \"Would you like to share your location with hud",
-    "images": "https://pixabay.com/get/55e2d7424252b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc158_1280.jpg"
-  },
-  "http://www.211.org/": {
-    "title": "211.org",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee5d747485ab108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65d_1280.jpg"
-  },
-  "http://nationalhomeless.org/references/need-help/": {
-    "title": "National Coalition for the Homeless",
-    "summary": "In addition, Russell Sjoblom, who was homeless with his family, has compiled a list of suggestions for people who are in danger of becoming homeless",
-    "images": "https://pixabay.com/get/57e6d1434e54ac14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55cb8_1280.jpg"
-  },
-  "https://www.va.gov/HOMELESS/NationalCallCenter.asp": {
-    "title": "Veterans Affairs",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/children?seed=9291"
-  },
-  "http://www.nchv.org/index.php/help/help/locate_organization/": {
-    "title": "National Coalition for Homeless Veterans",
-    "summary": "",
-    "images": "https://pixabay.com/get/54e8d1444f52a414f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbf_1280.jpg"
-  },
-  "http://nchv.org/index.php/help": {
-    "title": "National Coalition for Homeless Veterans",
-    "summary": "If you are a homeless veteran or a veteran at risk of becoming homeless, these pages provide information that you can use to seek help",
-    "images": "https://loremflickr.com/400/400/veteran?seed=882"
-  },
-  "https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Veterans%20Chat": {
-    "title": "24/7 Confidential Help – Veterans Crisis Line",
-    "summary": "If you’re a Veteran in crisis or Service member in crisis — or you're concerned about one — there are caring, qualified VA responders standing by to help 24 hours a day, 7 days a week",
-    "images": "https://pixabay.com/get/57e8d5444f50a814f6da8c7dda7936791636d9ed50556c4870267fdc9348c55cbb_1280.jpg"
-  },
-  "http://www.thehotline.org": {
-    "title": "National Domestic Violence Hotline",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/foodbank?seed=5951"
-  },
-  "http://www.thehotline.org/help/path-to-safety/": {
-    "title": "National Domestic Violence Hotline",
-    "summary": "",
-    "images": "https://pixabay.com/get/57e4d1414a51a814f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bb9_1280.jpg"
-  },
-  "https://www.nhchc.org/resources/grantees/national-hch-grantee-directory/": {
-    "title": "National Health Care for the Homeless Council",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/national?seed=1510"
-  },
-  "http://www.feedingamerica.org/find-your-local-foodbank/": {
-    "title": "Find Your Local Food Bank",
-    "summary": "3 billion meals each year through food pantries and meal programs throughout the United States and leads the nation to engage in the fight against hunger",
-    "images": "https://loremflickr.com/400/400/poor?seed=2718"
-  },
-  "http://www.211sacramento.org/211/": {
-    "title": "Connecting you with local services",
-    "summary": "",
-    "images": "https://pixabay.com/get/57e7dc444e52ad14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55cbd_1280.jpg"
-  },
-  "https://sacramentostepsforward.org/resources/find-help/": {
-    "title": "Sacramento Steps Forward",
-    "summary": "Families experiencing homelessness can self-register for County of Sacramento emergency shelter services by visiting the County of Sacramento’s family shelter reservation website and answering a few questions",
-    "images": "https://loremflickr.com/400/400/meal?seed=7584"
-  },
-  "https://www.coronavirus.gov/": {
-    "title": "Coronavirus Disease 2019 (COVID-19)",
-    "summary": "Alert President Trump has unveiled Guidelines for Opening Up America Again, a three-phased approach based on the advice of public health experts",
-    "images": "https://pixabay.com/get/51e5d7424f51b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc651_1280.jpg"
-  },
-  "http://www.fns.usda.gov/": {
-    "title": "USDA Food and Nutrition Service",
-    "summary": "The https:// means all transmitted data is encrypted  — in other words, any information or browsing history that you provide is transmitted securely",
-    "images": "https://loremflickr.com/400/400/usda?seed=5355"
-  },
-  "https://www.doleta.gov/jobseekers/": {
-    "title": "Employment & Training Administration (ETA)",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/meal?seed=4018"
-  },
-  "http://www.jobcorps.gov/": {
-    "title": "Job Corps",
-    "summary": "",
-    "images": "https://pixabay.com/get/50e5d7464c52b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc15e_1280.jpg"
-  },
-  "http://www.va.gov/homeless/": {
-    "title": "Veterans Affairs",
-    "summary": "Veterans who are homeless or at imminent risk of homelessness are strongly encouraged to contact the National Call Center for Homeless Veterans",
-    "images": "https://loremflickr.com/400/400/army?seed=9394"
-  },
-  "http://www.veteranscrisisline.net/": {
-    "title": "Suicide Prevention Hotline, Text & Chat",
-    "summary": "",
-    "images": "https://pixabay.com/get/5fe1dd45495bb108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc659_1280.jpg"
-  },
-  "http://veterans.gov/": {
-    "title": "Veterans' Employment and Training Service (VETS) - U.S. Department of Labor",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/helping?seed=3914"
-  },
-  "http://www.va.gov/directory/guide/home.asp?isflash=1": {
-    "title": "Veterans Affairs",
-    "summary": "",
-    "images": "https://pixabay.com/get/57e1d64a4a56ae14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbb_1280.jpg"
-  },
-  "http://www.va.gov/HOMELESS/crrc-list.asp": {
-    "title": "Veterans Affairs",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/homeless?seed=8720"
-  },
-  "http://www.nchv.org/": {
-    "title": "National Coalition for Homeless Veterans",
-    "summary": "",
-    "images": "https://pixabay.com/get/57e2d1424253ab14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbe_1280.jpg"
-  },
-  "https://www.hudexchange.info/housing-and-homeless-assistance/homeless-help/": {
-    "title": "Need Homeless Assistance?",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee6d6434c51b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc151_1280.jpg"
-  },
-  "https://www.hudexchange.info/homelessness-assistance/diseases": {
-    "title": "Disease Risks and Homelessness",
-    "summary": "People experiencing homelessness often have a higher risk for exposure to communicable diseases and have little access to health care systems and treatment in their communities",
-    "images": "https://loremflickr.com/400/400/refugee?seed=6939"
-  },
-  "https://www.hudexchange.info/trainings/courses/corporation-for-national-and-community-service-cncs-webinar/": {
-    "title": "Corporation for National and Community Service (CNCS) Webinar",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee1d2404c5ab108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65f_1280.jpg"
-  },
-  "https://www.hudexchange.info/homelessness-assistance/disaster-recovery-homelessness-toolkit/": {
-    "title": "Disaster Recovery Homelessness Toolkit",
-    "summary": "This toolkit is for communities that want to address effectively the needs of homeless and vulnerable populations through comprehensive disaster planning, response and recovery, and long-term recovery",
-    "images": "https://pixabay.com/get/53e4d2424a57b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc058_1280.jpg"
-  },
-  "https://secure.feedingamerica.org/site/Donation2?df_id=26876&26876_donation=form1&mfc_pref=T&s_onsite_promo=MainNav_Donate": {
-    "title": "Join me in ending hunger",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee1d2404c57b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65f_1280.jpg"
-  },
-  "https://secure.feedingamerica.org/site/Donation2?df_id=26876&26876_donation=form1&mfc_pref=T&s_onsite_promo=MainNav_Today": {
-    "title": "Join me in ending hunger",
-    "summary": "",
-    "images": "https://pixabay.com/get/50e0d2434d4fad0bffd8992cc62f34771237dde14e50744071277fd19748c5_1280.jpg"
-  },
-  "http://help.feedingamerica.org/site/Donation2?df_id=26130&26130_donation=form1&s_onsite_promo=MainNav_Monthly": {
-    "title": "Join me in ending hunger",
-    "summary": "By making your generous gift you'll receive periodic updates about the Feeding America network's critical work to help families struggling with hunger and how your support makes a difference",
-    "images": "https://pixabay.com/get/5ee5d7474851b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc158_1280.jpg"
-  },
-  "https://www.feedingamerica.org/need-help-find-food": {
-    "title": "Need Help? Find Food",
-    "summary": "The Feeding America network of 200 food banks and 60,000 food pantries and meal programs serve virtually every community in all 50 states, Washington, D",
-    "images": "https://pixabay.com/get/57e0d5404e50b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc059_1280.jpg"
-  },
-  "https://www.feedingamerica.org/find-your-local-foodbank": {
-    "title": "Find Your Local Food Bank",
-    "summary": "3 billion meals each year through food pantries and meal programs throughout the United States and leads the nation to engage in the fight against hunger",
-    "images": "https://loremflickr.com/400/400/vegetables?seed=7829"
-  },
-  "https://www.facebook.com/placerfoodbank/": {
-    "title": "Placer Food Bank",
-    "summary": "",
-    "images": "https://pixabay.com/get/57e8d7444a51ad14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55db9_1280.jpg"
-  },
-  "https://www.linkedin.com/company/756229?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A756229%2Cidx%3A2-1-2%2CtarId%3A1477249827378%2Ctas%3Aplacer%20food": {
-    "title": "https://www.linkedin.com/company/756229?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A756229%2Cidx%3A2-1-2%2CtarId%3A1477249827378%2Ctas%3Aplacer%20food",
-    "summary": "",
-    "images": "https://pixabay.com/get/53e1dd434950b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65b_1280.jpg"
-  },
-  "https://www.instagram.com/placerfoodbank/": {
-    "title": "Placer Food Bank Instagram",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee4d1414b53b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65d_1280.jpg"
-  },
-  "http://placerfoodbank.org": {
-    "title": "Placer Food Bank – Nourishing Communities. Ending Hunger",
-    "summary": "Our staff, retail and hunger-relief partners are working hard to prepare for and address an increased need of food assistance in the weeks and possibly months to come",
-    "images": "https://pixabay.com/get/5ee4d0444a5bb108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc659_1280.jpg"
-  },
-  "http://placerfoodbank.org/about-us-landing/": {
-    "title": "About",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/refugee?seed=3738"
-  },
-  "http://placerfoodbank.org/our-history/": {
-    "title": "Our History",
-    "summary": "The Placer Food Bank has been distributing food and nourishing our community since our beginning as the Community Resource Council in 1970",
-    "images": "https://loremflickr.com/400/400/army?seed=1027"
-  },
-  "http://placerfoodbank.org/our-impact/": {
-    "title": "Our Impact",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee5d54a4e5bb108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc15e_1280.jpg"
-  },
-  "http://placerfoodbank.org/our-leadership-team/": {
-    "title": "Our Leadership Team",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/meal?seed=7922"
-  },
-  "http://placerfoodbank.org/board-of-directors/": {
-    "title": "Board of Directors",
-    "summary": "",
-    "images": "https://pixabay.com/get/57e7d4444b5bae14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55dbb_1280.jpg"
-  },
-  "http://placerfoodbank.org/partners-vital-to-our-mission/": {
-    "title": "Partners Vital to Our Mission",
-    "summary": "",
-    "images": "https://pixabay.com/get/5fe1d6444d52b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc151_1280.jpg"
-  },
-  "http://placerfoodbank.org/what-we-do/": {
-    "title": "What We Do",
-    "summary": "",
-    "images": "https://pixabay.com/get/57e5d0434f52ad14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55dbb_1280.jpg"
-  },
-  "http://placerfoodbank.org/how-we-work/": {
-    "title": "How We Work",
-    "summary": "",
-    "images": "https://pixabay.com/get/55e5d1434851aa14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55dbb_1280.jpg"
-  },
-  "http://placerfoodbank.org/our-programs-landing/": {
-    "title": "Our Programs",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/helping?seed=9844"
-  },
-  "http://placerfoodbank.org/feed-our-future-program/": {
-    "title": "Feed Our Future Program",
-    "summary": "The BackPack Program was created to provide these children with nutritious, easy-to-prepare food for weekends and holidays when school is not in session",
-    "images": "https://loremflickr.com/400/400/poor?seed=7707"
-  },
-  "http://placerfoodbank.org/calfresh/": {
-    "title": "CalFresh",
-    "summary": "",
-    "images": "https://pixabay.com/get/52e9d5454c54af14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbc_1280.jpg"
-  },
-  "http://placerfoodbank.org/help-us-landing/": {
-    "title": "Ways To Give",
-    "summary": "",
-    "images": "https://pixabay.com/get/57e1d74a4356a514f6da8c7dda7936791636d9ed50556c4870267fdc9348c55dbc_1280.jpg"
-  },
-  "http://placerfoodbank.org/volunteer/": {
-    "title": "Volunteer",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/helping?seed=5835"
-  },
-  "https://secure.qgiv.com/for/pfb": {
-    "title": "Placer Food Bank",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/homeless?seed=4646"
-  },
-  "http://placerfoodbank.org/power-of-one-individual-giving/": {
-    "title": "Power of One – Individual Giving",
-    "summary": "",
-    "images": "https://pixabay.com/get/5fe3d2454c57b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc05d_1280.jpg"
-  },
-  "http://smile.amazon.com/ch/94-1740316": {
-    "title": "You shop. Amazon gives to Placer Food Bank.",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/homeless?seed=1771"
-  },
-  "http://placerfoodbank.org/donate-food/": {
-    "title": "Donate Food",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/homelessness?seed=6088"
-  },
-  "http://placerfoodbank.org/host-fund-food-drive/": {
-    "title": "Host a Food Drive",
-    "summary": "",
-    "images": "https://pixabay.com/get/5ee4d0444a5bb108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65f_1280.jpg"
-  },
-  "http://placerfoodbank.org/other-ways-to-help/": {
-    "title": "Other Ways to Help",
-    "summary": "There are a number of ways you can support Placer Food Bank in our mission to end hunger in our community",
-    "images": "https://pixabay.com/get/54e5d74a4352ab14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55dbb_1280.jpg"
-  },
-  "http://placerfoodbank.org/power-of-many/": {
-    "title": "Power of Many",
-    "summary": "",
-    "images": "https://pixabay.com/get/54e3d24b4d57a414f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbd_1280.jpg"
-  },
-  "http://placerfoodbank.org/get-food/": {
-    "title": "Get Food",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/homeless?seed=2418"
-  },
-  "http://placerfoodbank.org/events/": {
-    "title": "In the News",
-    "summary": "Important CalFresh News - People on CalFresh who aren't getting the maximum allotment for their household size could see a boost in their benefits in April or May",
-    "images": "https://loremflickr.com/400/400/homeless?seed=9895"
-  },
-  "http://placerfoodbank.org/blog-2/": {
-    "title": "Campaigns & Events",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/refugee?seed=9745"
-  },
-  "http://placerfoodbank.org/contact-us/": {
-    "title": "Contact Us",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/poor?seed=7396"
-  },
-  "https://donate.placerfoodbank.org/for/pfb?_ga=2.168769441.1692671111.1585586084-667740226.1583304010": {
-    "title": "Placer Food Bank",
-    "summary": "",
-    "images": "https://pixabay.com/get/5fe9dd4a4c54b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc659_1280.jpg"
-  },
-  "http://placerfoodbank.org/covid-19-update/": {
-    "title": "COVID-19 UPDATE",
-    "summary": "Placer Food Bank and hunger relief partners are essential services, and it is critical that we remain operational while implementing the best available safety precautions",
-    "images": "https://loremflickr.com/400/400/volunteering?seed=8494"
-  },
-  "https://youtu.be/4kGqDEUmmVw": {
-    "title": "PFB Welcome Video",
-    "summary": "",
-    "images": "https://loremflickr.com/400/400/refugee?seed=5412"
-  },
-  "http://placerfoodbank.org/50th-anniversary/": {
-    "title": "50th Anniversary",
-    "summary": "This will ensure that our operations and outreach programs remain sustainable and relevant to address hunger-relief for the next 50 years and beyond",
-    "images": "https://pixabay.com/get/54e9d5454e57a414f6da8c7dda7936791636d9ed50556c4870267fdc9348c55cbd_1280.jpg"
-  },
-  "http://placerfoodbank.org/stories-we-tell/": {
-    "title": "Stories We Tell",
-    "summary": "Help us build our file of stories about hunger and how Placer Food Bank is helping those in our communities throughout El Dorado, Placer and Nevada Counties",
-    "images": "https://loremflickr.com/400/400/homeless?seed=5532"
-  },
-  "http://placerfoodbank.org/hunger-is-happening/": {
-    "title": "Hunger is Happening",
-    "summary": "According to the USDA's 2019 Household Food Insecurity in the United States Report, more than 37 million people in the United States struggle with hunger",
-    "images": "https://loremflickr.com/400/400/hunger?seed=5712"
-  }
+	"www.cdc.gov/coronavirus/2019-ncov/community/homeless-shelters/index.html": {
+		"summary": "CDC Resources for the Homeless", 
+		"images": "https://www.sacbee.com/latest-news/9g9oed/picture242117971/alternates/FREE_1140/SAC_RCB_20200413_homelessmedical0055.JPG"
+	},
+	"www.elkgrovecity.org/city_hall/departments_divisions/housing_loans/homelessness_in_elk_grove/resources_for_the_homeless": {
+		"summary": "Elk Grove Resources for the Homeless",
+		"images": "https://media.wired.com/photos/5e8255c68dd572000828b6fd/191:100/w_2400,h_1256,c_limit/Cul-homeless-1207672077.jpg"
+	},
+	"www.hhs.gov/programs/social-services/homelessness/resources/index.html": {
+		"summary": "U.S. Department of Health and Human Services Homeless Resources.",
+		"images": "https://images.unsplash.com/photo-1542367787-4baf35f3037d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+	},
+	"endhomelessness.org/how-to-get-help-experiencing-homelssness/": {
+		"summary": "National Alliance to End Homelessness Help Guide",
+		"images": "https://images.unsplash.com/photo-1529520161780-2573a0926b31?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+	},
+	"www.shra.org/emergency-housing-and-other-homeless-resources": {
+		"summary": "SHRA Emergency Housing and Homeless Resources",
+		"images": "https://images.unsplash.com/photo-1526168637801-e9f490d6bc04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1266&q=80"
+	},
+	"www.homelessshelterdirectory.org/cgi-bin/id/city.cgi?city=Rocklin&state=CA": {
+		"summary": "Homeless Help in Rocklin & Surrounding Cities",
+		"images": "https://www.publichealthpost.org/wp-content/uploads/2017/01/DB_homeless-school2_feature_image.jpg"
+	},
+	"https://safegroundsac.org": {
+		"summary": "Donate to the establishment of Safe Ground Sacramento communities",
+		"images": "https://pixabay.com/get/5ee5d54a4d53b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65a_1280.jpg"
+	},
+	"www.feedingamerica.org/find-your-local-foodbank": {
+		"summary": "Find your local foodbank with Feeding America",
+		"images": "https://pixabay.com/get/5ee4d0444a5bb108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65b_1280.jpg"
+	},
+	"www.feedingamerica.org/our-work/food-bank-network": {
+		"summary": "How Do Food Banks Work?",
+		"images": "https://loremflickr.com/400/400/volunteering?seed=8343"
+	},
+	"placerfoodbank.org": {
+		"summary": "Placer Food Bank",
+		"images": "https://pixabay.com/get/57e6d2434850ae14f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbc_1280.jpg"
+	},
+	"https://www.cityofsacramento.org/HR": {
+		"summary": "City of Sacramento Human Resources",
+		"images": "https://images.unsplash.com/photo-1593113598332-cd288d649433?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+	},
+	"https://www.hudexchange.info/housing-and-homeless-assistance/": {
+		"summary": "HUD Exchange Housing Assistance.",
+		"images": "https://images.unsplash.com/photo-1587659697873-67607dab3807?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80"
+	},
+	"https://www.hudexchange.info/homelessness-assistance/": {
+		"summary": "HUD Exchange Programs in your area",
+		"images": "https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+	},
+	"http://www.elkgrovehart.org/services": {
+		"summary": "Elk Grove HART Services",
+		"images": "https://pixabay.com/get/5ee5d7474851b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc65f_1280.jpg"
+	},
+	"http://www.acf.hhs.gov/programs/ecd/expanding-early-care-and-education-for-homeless-children": {
+		"summary": "Expanding Early Care and Education for Children Experiencing Homelessness",
+		"images": "https://pixabay.com/get/57e2d14b4357a914f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bb0_1280.jpg"
+	},
+	"https://www.va.gov/HOMELESS/NationalCallCenter.asp": {
+		"summary": "Help for Homeless Veterans",
+		"images": "https://loremflickr.com/400/400/children?seed=9291"
+	},
+	"http://www.nchv.org/index.php/help/help/locate_organization/": {
+		"summary": "National Coalition for Homeless Veterans",
+		"images": "https://pixabay.com/get/54e8d1444f52a414f6da8c7dda7936791636d9ed50556c4870267fdc9348c55bbf_1280.jpg"
+	},
+	"https://www.nhchc.org/resources/grantees/national-hch-grantee-directory/": {
+		"summary": "National Health Care for the Homeless Council",
+		"images": "https://loremflickr.com/400/400/national?seed=1510"
+	},
+	"https://sacramentostepsforward.org/resources/find-help/": {
+		"summary": "Sacramento Steps Forward",
+		"images": "https://loremflickr.com/400/400/meal?seed=7584"
+	},
+	"https://www.careeronestop.org": {
+		"summary": "Career One Stop: Employment & Training Administration (ETA) ",
+		"images": "https://loremflickr.com/400/400/meal?seed=4018"
+	},
+	"http://www.jobcorps.gov/": {
+		"summary": "Job Corps: Find the skills and education to get the job you want",
+		"images": "https://pixabay.com/get/50e5d7464c52b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc15e_1280.jpg"
+	},
+	"http://veterans.gov/": {
+		"summary": "Veterans' Employment and Training Service (VETS) - U.S. Department of Labor",
+		"images": "https://loremflickr.com/400/400/helping?seed=3914"
+	},
+	"https://www.hudexchange.info/homelessness-assistance/disaster-recovery-homelessness-toolkit/": {
+		"summary": "Disaster Recovery Homelessness Toolkit: For communities that want to address effectively the needs of homeless & vulnerable populations through comprehensive disaster planning, response and recovery, and long-term recovery",
+		"images": "https://pixabay.com/get/53e4d2424a57b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc058_1280.jpg"
+	},
+	"https://www.fns.usda.gov/snap/recipient/eligibility": {
+		"summary": "SNAP Eligibility",
+		"images": "https://pixabay.com/get/57e0d5404e50b108f5d084609629307d1c38d6e6574c704c7c2b73d0924dc059_1280.jpg"
+	},
+	"http://smile.amazon.com/ch/94-1740316": {
+		"summary": "You shop. Amazon gives to Placer Food Bank.",
+		"images": "https://loremflickr.com/400/400/homeless?seed=1771"
+	}
 }
